@@ -1,0 +1,6 @@
+McDonald's	Fast Food	5
+Pizza Hut	Pizza	10
+Arby's	Fast Food	5
+papa john's	pizza	12
+Olive Garden	Italian	10
+The Lemon Drop	Diner	6
